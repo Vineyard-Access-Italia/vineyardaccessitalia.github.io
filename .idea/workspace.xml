@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31bb3fae-82a9-4af3-897d-e5ded00d5c04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vineyardaccessitalia.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hossein@initialblock.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jp1qGMsVJdvT1eVLZPXx8GGe9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31bb3fae-82a9-4af3-897d-e5ded00d5c04" name="Default Changelist" comment="" />
+      <created>1604486408055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604486408055</updated>
+      <workItem from="1604486409216" duration="8007000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1604500426933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604500426933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-655" y="-1050" key="CommitChangelistDialog2" timestamp="1604500426720">
+      <screen x="-1204" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-655" y="-1050" key="CommitChangelistDialog2/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604500426720" />
+    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2" timestamp="1604500429310">
+      <screen x="-1204" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604500429310" />
+    <state x="-579" y="-828" key="search.everywhere.popup" timestamp="1604486728210">
+      <screen x="-1204" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-579" y="-828" key="search.everywhere.popup/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604486728210" />
+  </component>
+</project>
