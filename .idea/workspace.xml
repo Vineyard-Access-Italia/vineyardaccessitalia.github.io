@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="31bb3fae-82a9-4af3-897d-e5ded00d5c04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604486408055</updated>
-      <workItem from="1604486409216" duration="8868000" />
+      <workItem from="1604486409216" duration="9547000" />
+      <workItem from="1604655281738" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1604500426933</created>
@@ -79,10 +81,10 @@
       <screen x="-1204" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-655" y="-1050" key="CommitChangelistDialog2/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604500426720" />
-    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2" timestamp="1604500429310">
+    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2" timestamp="1604565068972">
       <screen x="-1204" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604500429310" />
+    <state x="-644" y="-805" key="Vcs.Push.Dialog.v2/0.23.1440.852/-1204.-1057.1920.1057/716.-1057.1920.1057@-1204.-1057.1920.1057" timestamp="1604565068972" />
     <state x="-579" y="-828" key="search.everywhere.popup" timestamp="1604486728210">
       <screen x="-1204" y="-1057" width="1920" height="1057" />
     </state>
